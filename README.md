@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on [Snow](https://github.com/sahej-dev/Snow)
 
-- 👨‍💻 All of my projects are available at [https://sahej.io](sahej.io)
+- 👨‍💻 All of my projects are available at [sahej.io](https://sahej.io)
 
-- 📝 I post snippets and ramble on [https://sahej.io/notes](sahej.io/notes)
+- 📝 I post snippets and ramble on [sahej.io/notes](https://sahej.io/notes)
 
 - 💬 Ask me about **Flutter, React, Clean Code**
 
