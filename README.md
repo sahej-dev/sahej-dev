@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahej-dev&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="sahej-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahej-dev&theme=dark" alt="sahej-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahej-dev&theme=dracula" alt="sahej-dev" /></p>
