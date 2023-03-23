@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahej-dev&label=Profile%20views&color=9945d7&style=flat" alt="sahej-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahej-dev" alt="sahej-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahej-dev&theme=dracula" alt="sahej-dev" /></a> </p>
 
 - 👯 I’m looking to collaborate on [Snow](https://github.com/sahej-dev/Snow)
 
