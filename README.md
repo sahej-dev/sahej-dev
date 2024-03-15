@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [sahej.io](https://sahej.io)
 
-- 📝 I post snippets and ramble on [sahej.io/notes](https://sahej.io/notes)
+- 📝 I ramble on at [sahej.io/blog](https://sahej.io/blog)
 
-- 💬 Ask me about **Flutter, React, Clean Code**
+- 💬 Ask me about **Go, Node, Flutter, React, and Clean Code**
 
 - 📫 How to reach me **sarao_sahej@outlook.com**
 
