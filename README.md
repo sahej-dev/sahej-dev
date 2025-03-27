@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahej-dev&label=Profile%20views&color=9945d7&style=flat" alt="sahej-dev" /> 👈 these are hacked (I'm not popular, at all) </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahej-dev&theme=dracula" alt="sahej-dev" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahej-dev&theme=dracula" alt="sahej-dev" /></a> </p> -->
 
 - 👯 I’m looking to collaborate on [Snow](https://github.com/sahej-dev/Snow)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sahej.a.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahej.a.singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahej-a-singh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahej.a.singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahej-dev&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="sahej-dev" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahej-dev&theme=dracula" alt="sahej-dev" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahej-dev&theme=dracula" alt="sahej-dev" /></p> -->
