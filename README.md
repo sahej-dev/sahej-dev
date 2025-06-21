@@ -6,7 +6,7 @@
 
 -   **[rsttp](https://github.com/sahej-dev/rsttp)**: A simple, multi-threaded HTTP/1.1 server built from scratch in Rust.
 
--   **[Snow](https://github.com/sahej-dev/Snow)**: A coding contest reminder app for programmers that supports over 10 platforms.
+-   **[Snow](https://github.com/sahej-dev/Snow)**: A coding contest reminder app for programmers that supports over 10 platforms (1000+ downloads).
 
 -   **[chip8-emulator](https://github.com/sahej-dev/chip8-emulator)**: A CHIP-8 Emulator written in C++.
   
