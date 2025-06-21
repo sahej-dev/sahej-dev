@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on [Snow](https://github.com/sahej-dev/Snow)
 
-- 👨‍💻 All of my projects are available at [sahej.io](https://sahej.io)
+<!--- 👨‍💻 All of my projects are available at [sahej.io](https://sahej.io)-->
 
-- 📝 I ramble on at [sahej.io/blog](https://sahej.io/blog)
+<!--- 📝 I ramble on at [sahej.io/blog](https://sahej.io/blog)-->
 
-- 💬 Ask me about **Go, Node, Flutter, React, and Clean Code**
+- 💬 Ask me about **React, Python, Node, Flutter, Rust, C++**
 
 - 📫 How to reach me **sarao_sahej@outlook.com**
 
