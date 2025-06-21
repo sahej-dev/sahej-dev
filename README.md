@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm sahej-dev</h1>
-<h3 align="center">Coding through life</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahej-dev&label=Profile%20views&color=9945d7&style=flat" alt="sahej-dev" /> 👈 these are hacked (I'm not popular, at all) </p>
+### <img src="https://komarev.com/ghpvc/?username=sahej-dev&label=Profile%20views&color=9945d7&style=flat" alt="sahej-dev" /> 👈 these are hacked (I'm not popular, at all)
 
+### Checkout my Projects
+
+-   **[rsttp](https://github.com/sahej-dev/rsttp)**: A simple, multi-threaded HTTP/1.1 server built from scratch in Rust.
+
+-   **[Snow](https://github.com/sahej-dev/Snow)**: A coding contest reminder app for programmers that supports over 10 platforms.
+
+-   **[chip8-emulator](https://github.com/sahej-dev/chip8-emulator)**: A CHIP-8 Emulator written in C++.
+  
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahej-dev&theme=dracula" alt="sahej-dev" /></a> </p> -->
 
-- 👯 I’m looking to collaborate on [Snow](https://github.com/sahej-dev/Snow)
+<!--<- 👯 I’m looking to collaborate on [Snow](https://github.com/sahej-dev/Snow)-->
 
 <!--- 👨‍💻 All of my projects are available at [sahej.io](https://sahej.io)-->
 
 <!--- 📝 I ramble on at [sahej.io/blog](https://sahej.io/blog)-->
+<!---   💬 Ask me about **React, Python, Node, Flutter, Rust, C++**-->
 
-- 💬 Ask me about **React, Python, Node, Flutter, Rust, C++**
-
-- 📫 How to reach me **sarao_sahej@outlook.com**
+-   Reach me @ **sarao_sahej@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
